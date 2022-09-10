@@ -19,11 +19,12 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">📝 Baekjoon 📝</h3>
-<p align="center">[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmsqls19)](https://solved.ac/dmsqls19)</p>
+<div align="center">
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmsqls19)](https://solved.ac/dmsqls19)</div>
 
 <h3 align="center">✔ Github Stats ✔ /</h3>
-<p align="center">![eunbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhoeunbin&show_icons=true&theme=radical)</p>
+<div align="center">![eunbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhoeunbin&show_icons=true&theme=radical)</div>
 
 <h3 align="center">💡 Studying 💡/</h3>
-<p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhoeunbin&layout=compact)](https://github.com/rhoeunbin/github-readme-stats)</p>
+<div align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhoeunbin&layout=compact)](https://github.com/rhoeunbin/github-readme-stats)</div>
 
