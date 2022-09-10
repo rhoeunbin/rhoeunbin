@@ -1,3 +1,6 @@
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=EunBinRho&fontSize=70&animation=twinkling)
+
 반갑습니다ㅏㅏ🤭🤭
 ❤ 🎨🎮🕹🎶🎙🎹💻❤
 <!--
@@ -15,5 +18,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmsqls19)](https://solved.ac/dmsqls19)
+<h3 align="center">📝 Baekjoon 📝</h3>
+<p align="center">[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmsqls19)](https://solved.ac/dmsqls19)</p>
+
+<h3 align="center">✔ Github Stats ✔ /</h3>
+<p align="center">![eunbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhoeunbin&show_icons=true&theme=radical)</p>
+
+<h3 align="center">💡 Studying 💡/</h3>
+<p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhoeunbin&layout=compact)](https://github.com/rhoeunbin/github-readme-stats)</p>
+
