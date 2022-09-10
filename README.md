@@ -17,20 +17,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual-Studio-5C2D91?style=flat-square&logo=Visual-Studio&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>&nbsp 
+</p>
 
 <h3 align="center">📝 Baekjoon 📝</h3>
-<div align="center">
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmsqls19)](https://solved.ac/dmsqls19)
-</div>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmsqls19)](https://solved.ac/dmsqls19)
+
 
 <h3 align="center">✔ Github Stats ✔ /</h3>
-<div align="center">
-  ![rhoeunbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhoeunbin&show_icons=true&theme=radical)
+![rhoeunbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhoeunbin&show_icons=true&theme=radical)
 
-</div>
 
 <h3 align="center">💡 Studying 💡/</h3>
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhoeunbin&layout=compact)](https://github.com/rhoeunbin/github-readme-stats)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhoeunbin&layout=compact)](https://github.com/rhoeunbin/github-readme-stats)
+
 
