@@ -29,15 +29,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>&nbsp 
 </p>
 
-<h3 align="center">📝 Baekjoon 📝</h3>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmsqls19)](https://solved.ac/dmsqls19)
+<h3>📝 Baekjoon 📝</h3>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dmsqls19)](https://solved.ac/dmsqls19)
 
 
-<h3 align="center">✔ Github Stats ✔ /</h3>
-![rhoeunbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhoeunbin&show_icons=true&theme=radical)
+<h3>✔ Github Stats ✔ /</h3>
+![rhoeunbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhoeunbin&show_icons=true&theme=merko)  
 
 
-<h3 align="center">💡 Studying 💡/</h3>
+<h3>💡 Studying 💡/</h3>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhoeunbin&layout=compact)](https://github.com/rhoeunbin/github-readme-stats)
-
-
