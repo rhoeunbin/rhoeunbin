@@ -32,9 +32,13 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmsqls19)](https://solved.ac/dmsqls19/)
 
 
-<h3>✔ Github Stats ✔ /</h3> 
+<h3>✔ Github Stats ✔ </h3> 
 ![rhoeunbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhoeunbin&theme=flag-india_icons=true)
 [![rhoeunbinID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rhoeunbin&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/rhoeunbin)
 
-<h3>💡 Studying 💡/</h3>
+<h3>💡 Studying 💡</h3>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhoeunbin&layout=compact)](https://github.com/rhoeunbin/github-readme-stats)
+
+
+![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-soohyeon&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatngus1691)](https://solved.ac/rlatngus1691/)
