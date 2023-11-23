@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 
 # 💡 algorithm
 
-[![Solved.ac.dmsqls19](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmsqls19)](https://solved.ac/dmsqls19)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dmsqls19&theme=warm)
 
 
