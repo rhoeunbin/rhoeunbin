@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
+![nestjs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
 
 ### Tools
 ![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -30,7 +33,7 @@ Here are some ideas to get you started:
 
 # 💡 algorithm
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=dmsqls19&theme=warm)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmsqls19)](https://solved.ac/dmsqls19/)
 
 
 ## ✔ Stats
